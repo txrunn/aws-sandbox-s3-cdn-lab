@@ -1,0 +1,31 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Luci's Portfolio",
+    "home_page_url": "https://nextfolio-template.vercel.app/",
+    "feed_url": "https://nextfolio-template.vercel.app/feed.json",
+    "description": "A clean, fast, and lightweight portfolio template built with Next.js, Vercel, and Tailwind CSS for optimal performance.",
+    "items": [
+        {
+            "id": "https://nextfolio-template.vercel.app/blog/custom-mdx-examples",
+            "url": "https://nextfolio-template.vercel.app/blog/custom-mdx-examples",
+            "title": "Custom MDX Examples",
+            "summary": "Nextfolio custom MDX examples.",
+            "date_modified": "2024-08-11T00:00:00.000Z",
+            "tags": [
+                "Custom MDX",
+                "Web development"
+            ]
+        },
+        {
+            "id": "https://nextfolio-template.vercel.app/blog/getting-started",
+            "url": "https://nextfolio-template.vercel.app/blog/getting-started",
+            "title": "Getting Started with Nextfolio",
+            "summary": "Instructions to build and configure your Nextfolio portfolio.",
+            "date_modified": "2024-08-13T00:00:00.000Z",
+            "tags": [
+                "Configuration",
+                "Web development"
+            ]
+        }
+    ]
+}

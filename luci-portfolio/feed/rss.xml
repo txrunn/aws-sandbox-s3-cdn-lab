@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Luci's Portfolio</title>
+        <link>https://nextfolio-template.vercel.app/</link>
+        <description>A clean, fast, and lightweight portfolio template built with Next.js, Vercel, and Tailwind CSS for optimal performance.</description>
+        <lastBuildDate>Thu, 24 Oct 2024 20:36:09 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Feed for Node.js</generator>
+        <copyright>All rights reserved 2024, Luci's Portfolio</copyright>
+        <atom:link href="https://nextfolio-template.vercel.app/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Custom MDX Examples]]></title>
+            <link>https://nextfolio-template.vercel.app/blog/custom-mdx-examples</link>
+            <guid>https://nextfolio-template.vercel.app/blog/custom-mdx-examples</guid>
+            <pubDate>Sun, 11 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Nextfolio custom MDX examples.]]></description>
+            <category>Custom MDX</category>
+            <category>Web development</category>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started with Nextfolio]]></title>
+            <link>https://nextfolio-template.vercel.app/blog/getting-started</link>
+            <guid>https://nextfolio-template.vercel.app/blog/getting-started</guid>
+            <pubDate>Tue, 13 Aug 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Instructions to build and configure your Nextfolio portfolio.]]></description>
+            <category>Configuration</category>
+            <category>Web development</category>
+        </item>
+    </channel>
+</rss>

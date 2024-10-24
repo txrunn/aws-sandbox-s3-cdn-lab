@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fblog\u002F[slug]","\u002Ffeed\u002F[format]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
